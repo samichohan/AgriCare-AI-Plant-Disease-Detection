@@ -2,7 +2,7 @@
 
 A deep learning project that looks at a photo of a plant leaf and predicts the plant type and whether it is healthy or affected by one of 25 diseases (38 classes in total). Built with TensorFlow/Keras, trained on Google Colab, and served through a Streamlit web app.
 
-> **Live demo:** [add your Streamlit link here, or remove this line]
+> **Live demo:** [https://agricare-ai-plant-disease-detection-app.streamlit.app/]
 
 
 ## Problem
